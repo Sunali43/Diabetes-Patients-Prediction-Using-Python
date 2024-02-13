@@ -4,9 +4,7 @@ This project aims to predict the likelihood of an individual having diabetes bas
 
 **Features**
 Preprocessing: Data preprocessing techniques are applied to clean and prepare the dataset for analysis.<br>
-
 Exploratory Data Analysis (EDA): Exploring the dataset to gain insights and understand the relationships between different features.<br>
-
 Model Building: Implementing machine learning algorithms to train a predictive model.<br>
 Evaluation: Assessing the performance of the trained model using appropriate metrics.<br>
 Prediction: Using the trained model to predict the likelihood of diabetes for new data samples.<br>
